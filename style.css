@@ -28,7 +28,7 @@ h2 {
 }
 
 .submit-button {
-    background-color: #ffa600; /* Cor verde original */
+    background-color: #ffa600;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -37,9 +37,9 @@ h2 {
     width: 100%;
 }
 
-/* Estilo específico para o botão de realizar inscrição */
+
 .submit-button:hover {
-    background-color: #ffa600; /* Cor verde mais escura ao passar o mouse */
+    background-color: #ffa600; 
 }
         
 table {
